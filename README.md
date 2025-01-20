@@ -5,7 +5,7 @@
 To highlight **LeaveNow**, I will focus on **clarity**, **impact**, and **accessibility** through the following steps:  
 
 ### Clear Visual Hierarchy  
-Organize slides with a clean, minimalistic design for easy navigation:  
+  
 1. **Slide 1**: Problem & Solution Overview  
 2. **Slide 2**: Features Breakdown (ETD predictions, real-time tracking)  
 3. **Slide 3**: Impact Metrics (87% accuracy, 300% usage spike handling)  
@@ -24,12 +24,11 @@ Organize slides with a clean, minimalistic design for easy navigation:
   - **7 minutes average time saved per trip**.  
 
 ### Accessible Explanations  
-- Simplify technical details using analogies, e.g., explain **XGBoost** as:  
+- **XGBoost** :  
   > "XGBoost ranks and combines decision trees like voting experts."  
 - Use diagrams for clarity when showcasing complex concepts, such as:  
   - **Deployment pipeline**.  
-  - **Monitoring stack**.  
-- Balance technical depth for experts with jargon-free explanations for general audiences.  
+  - **Monitoring stack**.    
 
 ---
 
